@@ -19,4 +19,9 @@
       <Filter>Ressourcendateien</Filter>
     </Text>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
